@@ -1,4 +1,4 @@
-# PC-Shop Simulator (Pixel Art Edition)
+# PC-Shop Simulator Pixel Art Edition
 
 ---
 
@@ -61,4 +61,4 @@ Dabei müssen technische Kompatibilität, Budgetvorgaben und Zeitmanagement ber�
 - Game-Loop Design  
   Struktur eines Tagesablaufs (Bestellen -> Bauen -> Verkaufen -> Bewerten)  
 
----
+--- 
